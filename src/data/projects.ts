@@ -38,7 +38,7 @@ export const projects: Project[] = [
     description:
       "A promotional video created to highlight a women's college, its environment and opportunities through engaging visual storytelling.",
     category: "Promotional",
-    video: "/videos/lv_0_20260819171207.mp4",
+    video: "/videos/lv_0_20260819171207 (1) (1).mp4",
     thumbnail: "",
     tools: ["CapCut"],
     year: "2026",
@@ -51,7 +51,7 @@ export const projects: Project[] = [
     description:
       "A motivational video focused on inspiring viewers through powerful visuals, pacing, music and storytelling.",
     category: "Storytelling",
-    video: "/videos/lv_0_20260819172850.mp4",
+    video: "/videos/lv_0_20260819172850 (1) (1) (1).mp4",
     thumbnail: "",
     tools: ["CapCut"],
     year: "2026",
